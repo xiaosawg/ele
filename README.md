@@ -15,7 +15,7 @@
  名称：HOST  
  值：http://elm.fy-api.com
 ## 卡密填写
- 名称：ELE_CARME
+ 名称：ELE_CARME  
  值：购买的卡密
  
 # 🍁Ele青龙拉库命令
