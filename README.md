@@ -26,5 +26,6 @@ ql repo https://github.com/Maple-net/ele.git "^ele" "" "USER|common|ql|sendNotif
 
 直链加群：[https://qm.qq.com/q/J98mkDDEQg](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=3YyH0UHrXQzDEfsQ5azO-IMkO4pukKFF&authKey=wW2k7KYmi7Aj95sWf%2BAZqYkDkPyBaQFTuBtoTtNM82goCO5FBz6Kb6Z9%2BzkQmEVi&noverify=0&group_code=942678190)http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=3YyH0UHrXQzDEfsQ5azO-IMkO4pukKFF&authKey=wW2k7KYmi7Aj95sWf%2BAZqYkDkPyBaQFTuBtoTtNM82goCO5FBz6Kb6Z9%2BzkQmEVi&noverify=0&group_code=942678190  
 扫码加群：
-![60a8be08f445ec3093675f4db9567e08](https://github.com/Maple-net/ele/assets/149787450/45253cc7-b720-40ea-9810-79396e534213)
+![60a8be08f445ec3093675f4db9567e08](https://github.com/Maple-net/ele/assets/149787450/b5488fe8-0c93-4701-b409-3fd6bd6b74db)
+
 
