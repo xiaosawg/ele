@@ -1,5 +1,4 @@
 /**
- * @平行绳 飞机频道：https://t.me/tigerorrose
  * 抢券变量：elmqqck 需要抢券的 ck
  * 定时建议提前5秒，多账号用 conc elmqqck 并发
  * cron: 55 59 23 * * *
