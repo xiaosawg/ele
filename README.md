@@ -11,8 +11,10 @@
 ## CK
  名称：elmck  
  值：饿了么的ck
-## sign填写
+## sign填写（两个都要）
  名称：HOST  
+ 值：http://elm.fy-api.com
+ 名称：XSIGN_HOST  
  值：http://elm.fy-api.com
 ## 卡密填写
  名称：ELE_CARME  
