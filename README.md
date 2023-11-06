@@ -14,6 +14,7 @@
 ## sign填写（两个都要）
  名称：HOST  
  值：http://elm.fy-api.com
+ 
  名称：XSIGN_HOST  
  值：http://elm.fy-api.com
 ## 卡密填写
