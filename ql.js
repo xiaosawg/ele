@@ -64,14 +64,14 @@ module.exports.getEnvsCount = async () => {
   return data.length;
 };
 
-module.exports.addEnv = async (cookie, remarks) => {
+module.exports.addEnv = async (cookie,remarks, name ) => {
   const token = await getToken();
   const body = await api({
     method: 'post',
     url: 'api/envs',
     params: { t: Date.now() },
     json: [{
-      name: 'elmck',
+      name: name||'elmck',
       value: cookie,
       remarks,
     }],
