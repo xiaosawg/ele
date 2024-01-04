@@ -211,7 +211,7 @@ async function sendNotify(
     text,
     desp,
     params = {},
-    author = '\n\n关注https://github.com/baquanluomu/ele，及时获取脚本更新信息',
+    author = '\n\n枫叶饿了',
 ) {
     //提供6种通知
     if (process.env.pushDesc){
